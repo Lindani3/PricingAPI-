@@ -1,0 +1,131 @@
+Country;Weekend Type;Country Code
+Andorra;Saturday-Sunday;AD
+Albania;Saturday-Sunday;AL
+Armenia;Saturday-Sunday;AM
+Argentina;Saturday-Sunday;AR
+Austria;Saturday-Sunday;AT
+Australia;Saturday-Sunday;AU
+Aland Islands;Saturday-Sunday;AX
+Bosnia and Herzegovina;Saturday-Sunday;BA
+Barbados;Saturday-Sunday;BB
+Belgium;Saturday-Sunday;BE
+Bulgaria;Saturday-Sunday;BG
+Benin;Saturday-Sunday;BJ
+Bolivia;Saturday-Sunday;BO
+Brazil;Saturday-Sunday;BR
+Bahamas;Saturday-Sunday;BS
+Botswana;Saturday-Sunday;BW
+Belarus;Saturday-Sunday;BY
+Belize;Saturday-Sunday;BZ
+Canada;Saturday-Sunday;CA
+Switzerland;Saturday-Sunday;CH
+Chile;Saturday-Sunday;CL
+Colombia;Saturday-Sunday;CO
+Costa Rica;Saturday-Sunday;CR
+Cuba;Saturday-Sunday;CU
+Cyprus;Saturday-Sunday;CY
+Czechia;Saturday-Sunday;CZ
+Germany;Saturday-Sunday;DE
+Denmark;Saturday-Sunday;DK
+Dominican Republic;Saturday-Sunday;DO
+Ecuador;Saturday-Sunday;EC
+Estonia;Saturday-Sunday;EE
+Egypt;Saturday-Sunday;EG
+Spain;Saturday-Sunday;ES
+Finland;Saturday-Sunday;FI
+Faroe Islands;Saturday-Sunday;FO
+France;Saturday-Sunday;FR
+Gabon;Saturday-Sunday;GA
+United Kingdom;Saturday-Sunday;GB
+Grenada;Saturday-Sunday;GD
+Georgia;Saturday-Sunday;GE
+Guernsey;Saturday-Sunday;GG
+Gibraltar;Saturday-Sunday;GI
+Greenland;Saturday-Sunday;GL
+Gambia;Saturday-Sunday;GM
+Greece;Saturday-Sunday;GR
+Guatemala;Saturday-Sunday;GT
+Guyana;Saturday-Sunday;GY
+Hong Kong;Saturday-Sunday;HK
+Honduras;Saturday-Sunday;HN
+Croatia;Saturday-Sunday;HR
+Haiti;Saturday-Sunday;HT
+Hungary;Saturday-Sunday;HU
+Indonesia;Saturday-Sunday;ID
+Ireland;Saturday-Sunday;IE
+Isle of Man;Saturday-Sunday;IM
+Iceland;Saturday-Sunday;IS
+Italy;Saturday-Sunday;IT
+Jersey;Saturday-Sunday;JE
+Jamaica;Saturday-Sunday;JM
+Japan;Saturday-Sunday;JP
+South Korea;Saturday-Sunday;KR
+Kazakhstan;Saturday-Sunday;KZ
+Liechtenstein;Saturday-Sunday;LI
+Lesotho;Saturday-Sunday;LS
+Lithuania;Saturday-Sunday;LT
+Luxembourg;Saturday-Sunday;LU
+Latvia;Saturday-Sunday;LV
+Morocco;Saturday-Sunday;MA
+Monaco;Saturday-Sunday;MC
+Moldova;Saturday-Sunday;MD
+Montenegro;Saturday-Sunday;ME
+Madagascar;Saturday-Sunday;MG
+North Macedonia;Saturday-Sunday;MK
+Mongolia;Saturday-Sunday;MN
+Montserrat;Saturday-Sunday;MS
+Malta;Saturday-Sunday;MT
+Mexico;Saturday-Sunday;MX
+Mozambique;Saturday-Sunday;MZ
+Namibia;Saturday-Sunday;NA
+Niger;Saturday-Sunday;NE
+Nigeria;Saturday-Sunday;NG
+Nicaragua;Saturday-Sunday;NI
+Netherlands;Saturday-Sunday;NL
+Norway;Saturday-Sunday;NO
+New Zealand;Saturday-Sunday;NZ
+Panama;Saturday-Sunday;PA
+Peru;Saturday-Sunday;PE
+Papua New Guinea;Saturday-Sunday;PG
+Poland;Saturday-Sunday;PL
+Puerto Rico;Saturday-Sunday;PR
+Portugal;Saturday-Sunday;PT
+Paraguay;Saturday-Sunday;PY
+Romania;Saturday-Sunday;RO
+Serbia;Saturday-Sunday;RS
+Russia;Saturday-Sunday;RU
+Sweden;Saturday-Sunday;SE
+Singapore;Saturday-Sunday;SG
+Slovenia;Saturday-Sunday;SI
+Svalbard and Jan Mayen;Saturday-Sunday;SJ
+Slovakia;Saturday-Sunday;SK
+San Marino;Saturday-Sunday;SM
+Suriname;Saturday-Sunday;SR
+El Salvador;Saturday-Sunday;SV
+Turkey;Saturday-Sunday;TR
+Ukraine;Saturday-Sunday;UA
+United States;Saturday-Sunday;US
+Uruguay;Saturday-Sunday;UY
+Vatican City;Saturday-Sunday;VA
+Venezuela;Saturday-Sunday;VE
+South Africa;Saturday-Sunday;ZA
+Zimbabwe;Saturday-Sunday;ZW
+Afghanistan;Friday-Saturday;AF
+Algeria;Friday-Saturday;DZ
+Bahrain;Friday-Saturday;BH
+Bangladesh;Friday-Saturday;BD
+Egypt;Friday-Saturday;EG
+Iraq;Friday-Saturday;IQ
+Israel;Friday-Saturday;IL
+Jordan;Friday-Saturday;JO
+Kuwait;Friday-Saturday;KW
+Libya;Friday-Saturday;LY
+Oman;Friday-Saturday;OM
+Palestine;Friday-Saturday;PS
+Qatar;Friday-Saturday;QA
+Saudi Arabia;Friday-Saturday;SA
+Syria;Friday-Saturday;SY
+UAE;Friday-Saturday;AE
+Yemen;Friday-Saturday;YE
+Iran;Thursday-Friday;IR
+China ;Saturday-Sunday;CN
